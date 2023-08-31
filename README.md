@@ -9,12 +9,17 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![img1](https://github.com/gauravk1910/gaurav/assets/91137625/47efde21-23f9-440a-8ecd-1692c05a4b54)
+![img1](https://avatars.githubusercontent.com/u/91137625?s=400&u=3250b7ff74f19814c69e26cc49ff13328aee255d&v=4)
 
 ![img2](https://github.com/gauravk1910/gaurav/assets/91137625/4ba980f7-940b-41cc-b7cb-6180f55e0f27)
 
 ![azure](https://github.com/gauravk1910/gaurav/assets/91137625/aebe0232-5e17-4934-be8e-deee725c89b0)
 
+![google](https://github.com/gauravk1910/gaurav/assets/91137625/cd9da93b-65c7-4d7e-b105-b59a3fb60f37)
+
+![jenkins](https://github.com/gauravk1910/gaurav/assets/91137625/5b5e1e68-e9bc-4792-8157-90752d58b70c)
+
+![ansible](https://github.com/gauravk1910/gaurav/assets/91137625/8edec3fb-8b40-43b1-992e-b195546dbe6f)
 
 ![c++](https://github.com/gauravk1910/gaurav/assets/91137625/9157e1f8-3b96-49a6-8182-7352cf67e53e)
 
